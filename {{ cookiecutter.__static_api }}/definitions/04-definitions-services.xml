@@ -563,7 +563,7 @@
   </ServiceDetails>
 </Services>
 <Services transactionid="service-webadmin">
-  <Name>WebAdmin</Name>
+  <Name>FWMGMT</Name>
   <Type>TCPorUDP</Type>
   <ServiceDetails>
     <ServiceDetail>
